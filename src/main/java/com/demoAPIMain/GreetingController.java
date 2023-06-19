@@ -46,7 +46,4 @@ public class GreetingController {
 	public String deleteGreeting(@PathVariable String id) {
 		return "Greeting with id: " +id+ " has been deleted"; 
 	}
-	
-	//changes made in git
-	
 }
