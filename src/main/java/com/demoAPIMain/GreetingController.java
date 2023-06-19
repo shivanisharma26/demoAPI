@@ -47,11 +47,8 @@ public class GreetingController {
 		return "Greeting with id: " +id+ " has been deleted"; 
 	}
 	
-<<<<<<< Upstream, based on origin/master
 	//git changes
-=======
 	//changes after git edit, to check weather this merge with git edit
 	//changes for merge
 	
->>>>>>> 2491ba7 Third commit to check git edit
 }
