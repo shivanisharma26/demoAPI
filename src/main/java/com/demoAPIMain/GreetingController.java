@@ -51,6 +51,7 @@ public class GreetingController {
 	//git changes
 =======
 	//changes after git edit, to check weather this merge with git edit
+	//changes for merge
 	
 >>>>>>> 2491ba7 Third commit to check git edit
 }
